@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-01-06T10:12:34 IST" name="Default suite" finished-at="2022-01-06T10:12:38 IST" duration-ms="3830">
+    <groups>
+    </groups>
+    <test started-at="2022-01-06T10:12:34 IST" name="Default test" finished-at="2022-01-06T10:12:38 IST" duration-ms="3830">
+      <class name="files.DynamicJson">
+        <test-method signature="Deletebook(java.lang.String)[pri:0, instance:files.DynamicJson@a2431d0]" started-at="2022-01-06T10:12:34 IST" name="Deletebook" data-provider="BookId" finished-at="2022-01-06T10:12:37 IST" duration-ms="3417" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[cca1972]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Deletebook -->
+        <test-method signature="Deletebook(java.lang.String)[pri:0, instance:files.DynamicJson@a2431d0]" started-at="2022-01-06T10:12:38 IST" name="Deletebook" data-provider="BookId" finished-at="2022-01-06T10:12:38 IST" duration-ms="182" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[cppb1980]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Deletebook -->
+        <test-method signature="Deletebook(java.lang.String)[pri:0, instance:files.DynamicJson@a2431d0]" started-at="2022-01-06T10:12:38 IST" name="Deletebook" data-provider="BookId" finished-at="2022-01-06T10:12:38 IST" duration-ms="150" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[jja1985]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Deletebook -->
+      </class> <!-- files.DynamicJson -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
